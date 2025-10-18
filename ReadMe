@@ -1,0 +1,20 @@
+Descrição do Projeto
+Este é um programa Java muito simples, criado para ser o primeiro projeto no meu repositório para praticar o uso do Git e GitHub.
+
+O objetivo dele é apenas imprimir a mensagem "Olá, Bootcamp!" no console.
+
+Como Usar/Executar
+Você precisa ter o Java instalado na sua máquina.
+
+Salve o código no arquivo OlaMundo.java.
+
+Compile: Abra o terminal no diretório e use:
+javac OlaMundo.java
+
+Execute:
+java OlaMundo
+
+🎯 Propósito
+Este projeto cumpre a etapa de "Criação e Versionamento de Projetos" do Desafio Intermediário. Ele serve para demonstrar:
+A criação de um projeto inicial.
+O versionamento e envio de alterações para o GitHub.
