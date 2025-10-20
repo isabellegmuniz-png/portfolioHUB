@@ -6,3 +6,4 @@ public class OlaMundo {
         System.out.println("Olá, Bootcamp!");
     }
 }
+# O objetivo deste projeto é apenas demonstrar o uso do GitHub/Git.
